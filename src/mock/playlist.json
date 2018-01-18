@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "RED",
+    "song": "Hymn For The Missing",
+    "genre": "Christian Rock",
+    "year": "2012"
+  },
+  {
+    "artist": "Linkin Park",
+    "song": "One More Light",
+    "genre": "Alternative",
+    "year": "2017"
+  },
+  {
+    "artist": "Trading Yesterday",
+    "song": "Shattered",
+    "genre": "Alternative",
+    "year": "2006"
+  },
+  {
+    "artist": "Beartooth",
+    "song": "King of Anything",
+    "genre": "Hardcore punk ",
+    "year": "2017"
+  },
+  {
+    "artist": "Stone Sour",
+    "song": "Song #3",
+    "genre": "Alternative",
+    "year": "2017"
+  },
+  {
+    "artist": "Hollywood Undead",
+    "song": "New Day",
+    "genre": "Rap rock",
+    "year": "2005"
+  },
+  {
+    "artist": "Too Close To Touch",
+    "song": "Eiley",
+    "genre": "Post-hardcore",
+    "year": "2016"
+  }
+]

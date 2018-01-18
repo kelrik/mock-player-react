@@ -1,0 +1,27 @@
+div.blocks {
+  display: flex;
+  flex-direction: column;
+
+  div.row {
+    display: flex;
+    flex-direction: row;
+
+    &.header {
+      background-color: #D5D5D5;
+      cursor: pointer;
+    }
+  }
+}
+
+div.menu {
+  height: 250px;
+  margin-left: 20px;
+  border: 1px solid black;
+  padding: 20px;
+
+
+  input {
+    width: 200px;
+    padding: 5px;
+  }
+}
